@@ -14,7 +14,6 @@
 <a href="#contact">Contact</a> 
 </center>
 
-	<hr>
 
 <p>
 NARCO is a research project funded by the ANR under grant ANR-21-CE48-0011.
