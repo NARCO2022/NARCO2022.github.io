@@ -1,8 +1,4 @@
 
-
-
-	<title> NARCO - Non-Aggregative Resource COmpositions </title>
-
 <center>
 
 <br> 
