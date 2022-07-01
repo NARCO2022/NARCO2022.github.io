@@ -1,7 +1,7 @@
-<HTML>
 
 
-	<h1> NARCO - Non-Aggregative Resource COmpositions </h1>
+
+	<title> NARCO - Non-Aggregative Resource COmpositions </title>
 
 <center>
 
