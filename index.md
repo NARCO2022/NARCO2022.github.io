@@ -87,7 +87,7 @@ techniques.
 	<li> Second plenary meeting on July 7 2022 (Paris, IRIF).
 		<ul>
 			<li> <a href="https://arxiv.org/abs/2202.09637">Decision Problems in a Logic for Reasoning about Reconfigurable Distributed Systems</a> (L. Bueri)</li>
-			<li> Relating Labelled and Label-Free Bunched Calculi in BI Logic (env. 20-30 mn + questions) (D. M&eacute;ry)</li>
+			<li> Relating Labelled and Label-Free Bunched Calculi in BI Logic (D. M&eacute;ry)</li>
 			<li> <a href="https://hal.archives-ouvertes.fr/hal-03005848">A Framework for Reasoning about Dynamic Axioms in Description Logics</a> (S. Demri)</li>
 			<li> Toward Polynomial-Time Proof Procedures in Separation Logic with Inductively Defined Predicates (N. Peltier)</li>
 		</ul>
