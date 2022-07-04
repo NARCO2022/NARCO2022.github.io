@@ -79,17 +79,17 @@ techniques.
 		<ul>
 			<li>  Local Reasoning about Parameterized Reconfigurable Distributed Systems (R. Iosif)</li>
 			<li>Labelled Tableaux for a Linear Time Bunched Implication Logic (D. M&eacute;ry)</li>
-			<li>The Coq Library of Undecidability Proofs> (D. Larchey-Wending)</li>
+			<li>The Coq Library of Undecidability Proofs (D. Larchey-Wending)</li>
 			<li>Deciding verification problems for heap-lists (M. Sighireanu)</li>
 			<li>A Proof Procedure For Separation Logic With Inductive Definitions and Theory Reasoning (N. Peltier)</li>
 		</ul>
 	</li>
 	<li> Second plenary meeting on July 7 2022 (Paris, IRIF).
 		<ul>
-			<li> <a href="https://arxiv.org/abs/2202.09637">Decision Problems in a Logic for Reasoning about Reconfigurable Distributed Systems</a> (Lucas Bueri)</li>
+			<li> <a href="https://arxiv.org/abs/2202.09637">Decision Problems in a Logic for Reasoning about Reconfigurable Distributed Systems</a> (L. Bueri)</li>
 			<li> Relating Labelled and Label-Free Bunched Calculi in BI Logic (env. 20-30 mn + questions) (D. M&eacute;ry)</li>
-			<li> <a href="https://hal.archives-ouvertes.fr/hal-03005848">A Framework for Reasoning about Dynamic Axioms in Description Logics</a> (St&eacute;phane Demri)</li>
-			<li> Toward Polynomial-Time Proof Procedures in Separation Logic with Inductively Defined Predicates (Nicolas Peltier)</li>
+			<li> <a href="https://hal.archives-ouvertes.fr/hal-03005848">A Framework for Reasoning about Dynamic Axioms in Description Logics</a> (S. Demri)</li>
+			<li> Toward Polynomial-Time Proof Procedures in Separation Logic with Inductively Defined Predicates (N. Peltier)</li>
 		</ul>
 	</li>
 	<li> <a href="https://asl-workshop.github.io/asl22/">ASL</a> (Workshop on Advancing Separation Logics) on July 31 2022.</li>
@@ -109,7 +109,7 @@ techniques.
   <p data-csl-entry-id="DBLP:journals/logcom/DemriFM21" class="csl-entry">Demri, S., Fervari, R., &#38; Mansutti, A. (2021). Internal proof calculi for modal logics with separating conjunction. <i>J. Log. Comput.</i>, <i>31</i>(3)
   <p data-csl-entry-id="DBLP:journals/tocl/EchenimIP20" class="csl-entry">Echenim, M., Iosif, R., &#38; Peltier, N. (2020). The Bernays-Schoenfinkel-Ramsey Class of Separation Logic with Uninterpreted Predicates. <i>ACM Trans. Comput. Log.</i>, <i>21</i>(3), 19:1-19:46.
   <p data-csl-entry-id="DBLP:journals/ipl/EchenimIP22" class="csl-entry">Echenim, M., Iosif, R., &#38; Peltier, N. (2022). Entailment is Undecidable for Symbolic Heap Separation Logic Formulae with Non-Established Inductive Rules. <i>Inf. Process. Lett.</i>, <i>173</i>, 106169.
-  <p data-csl-entry-id="DBLP:conf/csl/EchenimIP21" class="csl-entry">Echenim, M., Iosif, R., &#38; Peltier, N. (2021a). Decidable Entailments in Separation Logic with Inductive Definitions: Beyond Establishment. In C. Baier &#38; J. Goubault-Larrecq (Eds.), <i>29th EACSL Annual Conference on Computer Science Logic, CSL 2021, January 25-28, 2021, Ljubljana, Slovenia (Virtual Conference)</i> (Vol. 183, p. 20:1-20:18). Schloss Dagstuhl - Leibniz-Zentrum fÃ¼r Informatik.
+  <p data-csl-entry-id="DBLP:conf/csl/EchenimIP21" class="csl-entry">Echenim, M., Iosif, R., &#38; Peltier, N. (2021a). Decidable Entailments in Separation Logic with Inductive Definitions: Beyond Establishment. In C. Baier &#38; J. Goubault-Larrecq (Eds.), <i>29th EACSL Annual Conference on Computer Science Logic, CSL 2021, January 25-28, 2021, Ljubljana, Slovenia (Virtual Conference)</i> (Vol. 183, p. 20:1-20:18). Schloss Dagstuhl - Leibniz-Zentrum für Informatik.
   <p data-csl-entry-id="DBLP:conf/cade/EchenimIP21" class="csl-entry">Echenim, M., Iosif, R., &#38; Peltier, N. (2021b). Unifying Decidable Entailments in Separation Logic with Inductive Definitions. In A. Platzer &#38; G. Sutcliffe (Eds.), <i>Automated Deduction - CADE 28 - 28th International Conference on Automated Deduction, Virtual Event, July 12-15, 2021, Proceedings</i> (Vol. 12699, pp. 183-199). Springer.
   <p data-csl-entry-id="DBLP:journals/logcom/GalmicheM21" class="csl-entry">Galmiche, D., &#38; Méry, D. (2021). Labelled cyclic proofs for separation logic. <i>J. Log. Comput.</i>, <i>31</i>(3), 892-922.
   <p data-csl-entry-id="DBLP:journals/sttt/Sighireanu21" class="csl-entry">Sighireanu, M. (2021). SL-COMP: competition of solvers for separation logic. <i>Int. J. Softw. Tools Technol. Transf.</i>, <i>23</i>(6), 895-903.
