@@ -114,7 +114,9 @@ techniques.
   <p data-csl-entry-id="DBLP:journals/logcom/GalmicheM21" class="csl-entry">Galmiche, D., &#38; Méry, D. (2021). Labelled cyclic proofs for separation logic. <i>J. Log. Comput.</i>, <i>31</i>(3), 892-922.
   <p data-csl-entry-id="DBLP:journals/sttt/Sighireanu21" class="csl-entry">Sighireanu, M. (2021). SL-COMP: competition of solvers for separation logic. <i>Int. J. Softw. Tools Technol. Transf.</i>, <i>23</i>(6), 895-903.
 <p>Echenim, M., and Peltier, N. (2022). Two Results on Separation Logic With Theory Reasoning. <i>In ASL 22 (Workshop on Advancing Separation Logic), July 2022</i>.
-
+<p> Daniel Mery and Didier Galmiche (2022). Labelled Tableaux for Linear Time Bunched Implication Logic. <i>In ASL 22 (Workshop on Advancing Separation Logic), July 2022</i>.
+<p> Wanyun Sun, Zhilin Wu and Mihaela Sighireanu (2022). Deciding Separation Logic with Heap Lists. <i>In ASL 22 (Workshop on Advancing Separation Logic), July 2022</i>.
+<p> Radu Iosif and Florian Zuleger (2022). On the Expressiveness of a Logic of Separated Relations. <i>In ASL 22 (Workshop on Advancing Separation Logic), July 2022</i>.
 
 
 <hr> 
