@@ -6,7 +6,7 @@
 <a href="#abstract">Abstract</a> 
 <a href="#partners">Partners</a> 
 <a href="#events">Events</a> 
-<a href="#del">Deliverable</a> 
+<a href="#del">Deliverables</a> 
 <a href="#pub">Publications</a> 
 <a href="#contact">Contact</a> 
 </center>
@@ -99,7 +99,7 @@ techniques.
 
 <hr> 
 
-<a name="del"></a><h2>Deliverable</h2>
+<a name="del"></a><h2>Deliverables</h2>
 
 <ul>
 <li> 
