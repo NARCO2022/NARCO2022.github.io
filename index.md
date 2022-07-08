@@ -6,6 +6,7 @@
 <a href="#abstract">Abstract</a> 
 <a href="#partners">Partners</a> 
 <a href="#events">Events</a> 
+<a href="#del">Deliverable</a> 
 <a href="#pub">Publications</a> 
 <a href="#contact">Contact</a> 
 </center>
@@ -97,6 +98,15 @@ techniques.
 
 
 <hr> 
+
+<a name="del"></a><h2>Deliverable</h2>
+
+<ul>
+<li> 
+	<a href="https://arxiv.org/abs/2201.13227">A Proof Procedure For Separation Logic With Inductive Definitions and Theory Reasoning</a>
+</ul>	
+	
+<hr>
 
 <a name="pub"></a><h2>Publications</h2>
 
