@@ -41,8 +41,8 @@ techniques.
 <ul>
 <li> <a href="https://www.liglab.fr/">LIG</a> (Laboratory of Informatics of Grenoble) - CNRS
 	<ul>
-		<li> M. Echenim</li>
 		<li> <strong><a href="https://lig-membres.imag.fr/peltier/">N. Peltier</a></strong></li>
+		<li> M. Echenim</li>
 	</ul>
 </li>
 <li> <a href="https://lmf.cnrs.fr/">LMF</a> (Laboratoire M&eacute;thodes formelles) - ENS Saclay
