@@ -103,7 +103,7 @@ techniques.
 
 <ul>
 <li> 
-	<a href="https://arxiv.org/abs/2201.13227">A Proof Procedure For Separation Logic With Inductive Definitions and Theory Reasoning</a>
+	<a href="https://arxiv.org/abs/2201.13227">A Proof Procedure For Separation Logic With Inductive Definitions and Theory Reasoning</a></li>
 </ul>	
 	
 <hr>
