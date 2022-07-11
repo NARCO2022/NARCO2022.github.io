@@ -63,8 +63,9 @@ techniques.
 </li>
 	<ul>
 		<li> <strong>R. Iosif</strong></li>
-		<li> M. Bozga</li>
 		<li> S. Bliudze</li>
+		<li> M. Bozga</li>
+		<li>L. Bueri</li>
 	</ul>	
 
 </ul>
