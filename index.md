@@ -112,7 +112,7 @@ techniques.
 <a name="pub"></a><h2>Publications</h2>
 
 
-<p> <strong>Here are some publications related to the project:</strong>
+<p> <strong>Here are some publications related to the project. See also <a href="https://hal.archives-ouvertes.fr/search/index/q/*/anrProjectId_i/55783">HAL</a></strong>
 
 <div class="csl-bib-body">
 
