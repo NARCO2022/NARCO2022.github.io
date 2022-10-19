@@ -50,6 +50,7 @@ techniques.
 		<li> <strong>M. Sighireanu</strong></li>
 		<li> P.-A. Mellies</li>
 		<li> S. Demri</li>
+		<li> Q. Petitjean</li>
 	</ul>
 </li>
 <li> <a href="https://www.loria.fr"> LORIA</a> - Univ. of Lorraine
@@ -65,7 +66,7 @@ techniques.
 		<li> <strong>R. Iosif</strong></li>
 		<li> S. Bliudze</li>
 		<li> M. Bozga</li>
-		<li>L. Bueri</li>
+		<li> L. Bueri</li>
 	</ul>	
 
 </ul>
