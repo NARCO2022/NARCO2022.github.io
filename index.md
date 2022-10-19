@@ -95,6 +95,8 @@ techniques.
 		</ul>
 	</li>
 	<li> <a href="https://asl-workshop.github.io/asl22/">ASL</a> (Workshop on Advancing Separation Logics) on July 31 2022.</li>
+	<li> Third plenary meeting on December 8 2022 (Paris, IRIF).
+
 </ul>
 
 
