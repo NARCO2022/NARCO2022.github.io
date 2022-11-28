@@ -96,7 +96,13 @@ techniques.
 		</ul>
 	</li>
 	<li> <a href="https://asl-workshop.github.io/asl22/">ASL</a> (Workshop on Advancing Separation Logics) on July 31 2022.</li>
-	<li> Third plenary meeting on December 8 2022 (Paris, IRIF).</li>
+	<li> Third plenary meeting on December 8 2022 (Paris, IRIF).
+	<ul>
+		<li>Expressiveness Results for an Inductive Logic of Separated Relations (R. Iosif, joint work with F. Zuleger, TU Wien) </li>
+		<li><a href="https://arxiv.org/abs/2204.12117">On an Invariance Problem for Parameterized Concurrent Systems</a> (L. Bueri)</li>
+		<li>On the satisfiability problem for SL formulas with inductive definitions and permissions (N. Peltier)</li>
+		</ul>	
+	</li>
 </ul>
 
 <hr> 
