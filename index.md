@@ -102,7 +102,8 @@ techniques.
 		<li><a href="https://arxiv.org/abs/2204.12117">On an Invariance Problem for Parameterized Concurrent Systems</a> (L. Bueri)</li>
 		<li>On the satisfiability problem for SL formulas with inductive definitions and permissions (N. Peltier)</li>
 		</ul>	
-	</li>
+	</li> L. Bueri gave a presentation on the paper "Logical Characterization of the Sets of Hypergraphs Defined by Hyperedge Replacement Grammars” 
+by Bruno Courcelle and Joost Engelfriet</li>
 </ul>
 
 <hr> 
