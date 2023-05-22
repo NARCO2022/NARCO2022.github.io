@@ -104,6 +104,9 @@ techniques.
 		</ul>	</li>
 	<li> On February 2 2023, L. Bueri gave a presentation at Verimag on the paper "Logical Characterization of the Sets of Hypergraphs Defined by Hyperedge Replacement Grammars” 
 by Bruno Courcelle and Joost Engelfriet</li>
+ 	<li> Fourth plenary meeting on June 22 2023 (Paris, IRIF).
+	</li>
+
 </ul>
 
 <hr> 
