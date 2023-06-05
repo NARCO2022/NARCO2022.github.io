@@ -48,8 +48,8 @@ techniques.
 <li> <a href="https://lmf.cnrs.fr/">LMF</a> (Laboratoire M&eacute;thodes formelles) - ENS Saclay
 	<ul>
 		<li> <strong>M. Sighireanu</strong></li>
-		<li> P.-A. Mellies</li>
 		<li> S. Demri</li>
+		<li> P.-A. Mellies</li>
 		<li> Q. Petitjean</li>
 	</ul>
 </li>
