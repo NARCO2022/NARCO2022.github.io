@@ -106,6 +106,14 @@ techniques.
 	<li> On February 2 2023, L. Bueri gave a presentation at Verimag on the paper "Logical Characterization of the Sets of Hypergraphs Defined by Hyperedge Replacement Grammars” 
 by Bruno Courcelle and Joost Engelfriet</li>
  	<li> Fourth plenary meeting on June 22 2023 (Paris, IRIF).
+		<ul>
+			<li> What is Decidable in Separation Logic Beyond  Progress, Connectivity
+       and Establishment? (Q. Petitjean) </li>
+			<li> Overlaid Data Structures (M. Sighireanu) </li>
+			<li> The Treewidth Boundedness Problem for an Inductive Separation Logic of Relations (M. Bozga)</li>
+			<li> On the Definability of Context-free Sets of Graphs in (Counting) MSO (R. Iosif) </li>
+			<li> Bi-Intuitionistic BI: Models and Proofs (B. Izart)</li>
+		</ul>
 	</li>
 
 </ul>
