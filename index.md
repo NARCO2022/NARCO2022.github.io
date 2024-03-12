@@ -6,7 +6,6 @@
 <a href="#abstract">Abstract</a> 
 <a href="#partners">Partners</a> 
 <a href="#events">Events</a> 
-<a href="#del">Deliverables</a> 
 <a href="#pub">Publications</a> 
 <a href="#contact">Contact</a> 
 </center>
@@ -121,15 +120,6 @@ by Bruno Courcelle and Joost Engelfriet</li>
 </ul>
 
 <hr> 
-
-<a name="del"></a><h2>Deliverables</h2>
-
-<ul>
-<li> 
-	<a href="https://arxiv.org/abs/2201.13227">A Proof Procedure For Separation Logic With Inductive Definitions and Theory Reasoning</a></li>
-</ul>
-	
-<hr>
 
 <a name="pub"></a><h2>Publications</h2>
 
