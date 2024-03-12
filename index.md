@@ -117,7 +117,7 @@ by Bruno Courcelle and Joost Engelfriet</li>
  	<li> Fifth plenary meeting on March 13 2024 (Paris).
 		<ul>
 			<li> Effective MSO-Definability for Tree-width Bounded Models of an Inductive Separation Logic of Relations (Radu Iosif) </li>
-			<li> JavaBIP meets VerCors: Towards the Safety of Concurrent Software Systems in Java (Simon Bliudze) </li>
+			<li><a href="https://hal.science/hal-03911393v1">JavaBIP meets VerCors: Towards the Safety of Concurrent Software Systems in Java</a> (Simon Bliudze) </li>
 			<li> Tree-Verifiable Graph Grammars (Mark Chimes) </li>
 			<li> Relating Label-free and Labelled Sequent Calculi in Intuitionistic Sentential Logic with Identity (Daniel Méry) </li>
 			<li> A Direct Decision Procedure for Testing Entailment in Relational Separation Logic (Nicolas Peltier) </li>
