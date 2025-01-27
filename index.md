@@ -12,7 +12,7 @@
 
 <p>
 NARCO is a research project funded by the ANR under grant ANR-21-CE48-0011.
-It is devoted to reasoning on non-aggregative resource composition in separation logic. The project started on January 1 2022. Its duration is 4 years.
+It is devoted to reasoning on non-aggregative resource composition in separation logic. The project started on January 1 2022. Its duration is 5 years.
 
 <hr>
 
