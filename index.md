@@ -141,7 +141,7 @@ with Permissions and Domain Variables (Nicolas Peltier) </li>
 <a name="pub"></a><h2>Publications</h2>
 
 
-<p> <strong>See <a href="https://hal.archives-ouvertes.fr/search/index/q/*/anrProjectId_i/55783">HAL</a></strong>
+<p> <strong>See <a href="https://anr.hal.science/search/index/?q=*&anrProjectReference_s=ANR-21-CE48-0011">HAL</a></strong>
 
 
 <hr> 
