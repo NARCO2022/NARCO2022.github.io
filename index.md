@@ -3,11 +3,12 @@
 
 <br> 
 
-<a href="#abstract">Abstract</a> 
-<a href="#partners">Partners</a> 
-<a href="#events">Events</a> 
-<a href="#pub">Publications</a> 
-<a href="#contact">Contact</a> 
+<a href="#abstract">Abstract</a> &nbsp;
+<a href="#partners">Partners</a> &nbsp;
+<a href="#events">Events</a> &nbsp;
+<a href="#pub">Publications</a> &nbsp;
+<a href="#contact">Contact</a> &nbsp;
+<a href="https://lejournal.cnrs.fr/nos-blogs/focus-sciences/lart-de-modeliser-des-systemes-informatiques-complexes">Focus Science CNRS</a>
 </center>
 
 <p>
