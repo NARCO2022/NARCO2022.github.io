@@ -134,6 +134,8 @@ Inductive Rules and Overlaid Data Structures (Quentin Petitjean) </li>
 with Permissions and Domain Variables (Nicolas Peltier) </li>
 		</ul>
 	</li>
+  	<li> Seventh plenary meeting on January 29-30 2025 (Saclay).
+	</li>
 
 </ul>
 
