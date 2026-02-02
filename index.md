@@ -135,8 +135,12 @@ with Permissions and Domain Variables (Nicolas Peltier) </li>
 		</ul>
 	</li>
   	<li> Seventh plenary meeting on January 29-30 2025 (Saclay).
-	</li>
-
+		<ul>
+			<li> Compositional Shape Analysis with Shared Abduction and Biabductive Loop Acceleration  (Adam Rogalewicz, joint Verification seminar at IRIF)</li>
+ 		    <li> Bifurcation Logic: Separation Through Ordering (D. Méry)</li> 	
+			<li> Optimal Recognizers for Unranked and Unordered Trees and Series-Parallel Graphs (R. Iosif)</li>
+            <li> Iterating Non-Aggregative Structure Compositions (F. Zuleger)</li>
+   		    <li> Bi-Intuitionistic Bunched Implications logic: Beth Semantics and Axiomatization (B. Izart)</li>
 </ul>
 
 <hr> 
