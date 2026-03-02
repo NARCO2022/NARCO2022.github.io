@@ -143,9 +143,9 @@ with Permissions and Domain Variables (Nicolas Peltier) </li>
    		    <li> Bi-Intuitionistic Bunched Implications logic: Beth Semantics and Axiomatization (B. Izart)</li>
 </ul>
 	</li>
-	<li> Quentin Petitjean defended his thesis <\strong>
+	<li> Quentin Petitjean defended his thesis <strong>
 Automated Tools for Inductive Reasoning in Separation Logic
-<strong></strong>(ENS Saclay).
+	</strong>strong></strong>(ENS Saclay).
 	</li>
 		</ul>
 <hr> 
