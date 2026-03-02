@@ -147,7 +147,7 @@ with Permissions and Domain Variables (Nicolas Peltier) </li>
 Automated Tools for Inductive Reasoning in Separation Logic
 <strong></strong>(ENS Saclay).
 	</li>
-		</li>
+		</ul>
 <hr> 
 
 <a name="pub"></a><h2>Publications</h2>
