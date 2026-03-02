@@ -142,7 +142,11 @@ with Permissions and Domain Variables (Nicolas Peltier) </li>
             <li> Iterating Non-Aggregative Structure Compositions (F. Zuleger)</li>
    		    <li> Bi-Intuitionistic Bunched Implications logic: Beth Semantics and Axiomatization (B. Izart)</li>
 </ul>
-
+	</li>
+	<li> Quentin Petitjean defended his thesis <\strong>
+Automated Tools for Inductive Reasoning in Separation Logic
+<strong></strong>(ENS Saclay).
+	</li>li>
 <hr> 
 
 <a name="pub"></a><h2>Publications</h2>
