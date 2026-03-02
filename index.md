@@ -145,7 +145,7 @@ with Permissions and Domain Variables (Nicolas Peltier) </li>
 	</li>
 	<li> Quentin Petitjean defended his thesis <strong>
 Automated Tools for Inductive Reasoning in Separation Logic
-	</strong>strong></strong>(ENS Saclay).
+	</strong>(ENS Saclay).
 	</li>
 		</ul>
 <hr> 
