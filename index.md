@@ -22,7 +22,7 @@ It is devoted to reasoning on non-aggregative resource composition in separation
 
 <h2>Abstract</h2>
 
-<p> The complexity faced by the design of a computer system can be tackled by a high degree of modularity. Modularity is instrumental
+<p style="text-align: justify;"> The complexity faced by the design of a computer system can be tackled by a high degree of modularity. Modularity is instrumental
 in maintaining a system throughout its lifetime, by performing
 updates and reconfigurations. These systems control important aspects of our lives, thus the importance of ensurring their correct
 behavior, by using formal models and verification techniques. This project provides a basis for the design and verification of complex
