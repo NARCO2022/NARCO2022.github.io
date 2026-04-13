@@ -17,7 +17,7 @@ Research Agency</a> (ANR) under grant ANR-21-CE48-0011.</p>
 
 <p>
 It is devoted to reasoning on non-aggregative resource composition in separation logic.</p>
-<p>Duration: January 1 2022-December 2026.</p>
+<p>Duration: January 1 2022-December 31 2026.</p>
 
 <hr>
 
