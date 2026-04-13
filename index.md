@@ -6,14 +6,18 @@
 <a href="#abstract">Abstract</a> &nbsp;
 <a href="#partners">Partners</a> &nbsp;
 <a href="#events">Events</a> &nbsp;
-<a href="#pub">Publications</a> &nbsp;
+<a href="https://anr.hal.science/search/index/?q=*&anrProjectReference_s=ANR-21-CE48-0011">Publications</a> &nbsp;
 <a href="#contact">Contact</a> &nbsp;
 <a href="https://lejournal.cnrs.fr/nos-blogs/focus-sciences/lart-de-modeliser-des-systemes-informatiques-complexes">Focus Science CNRS</a>
 </center>
 
 <p>
-NARCO is a research project funded by the ANR under grant ANR-21-CE48-0011.
-It is devoted to reasoning on non-aggregative resource composition in separation logic. The project started on January 1 2022. Its duration is 5 years.
+NARCO is a research project funded by the <a href="https://anr.fr/">French National
+Research Agency</a> (ANR) under grant ANR-21-CE48-0011.</p>
+
+<p>
+It is devoted to reasoning on non-aggregative resource composition in separation logic.</p>
+<p>Duration: January 1 2022-December 2026.</p>
 
 <hr>
 
@@ -150,10 +154,6 @@ Automated Tools for Inductive Reasoning in Separation Logic
 		</ul>
 <hr> 
 
-<a name="pub"></a><h2>Publications</h2>
-
-
-<p> <strong>See <a href="https://anr.hal.science/search/index/?q=*&anrProjectReference_s=ANR-21-CE48-0011">HAL</a></strong>
 
 
 <hr> 
