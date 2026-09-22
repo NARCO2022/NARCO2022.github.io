@@ -61,7 +61,7 @@ techniques.
 	<ul>
 		<li> <strong>D. Galmiche</strong></li>
 		<li> B. Izart</li>
-		<li> D. Larchey-Wending</li>
+		<li> D. Larchey-Wendling</li>
 		<li> D. M&eacute;ry</li>
 	</ul>	
 </li>
